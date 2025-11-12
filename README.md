@@ -1,7 +1,7 @@
 # 🚀 TaskPilot
 
 ### 🧩 Overview
-**Task Management System** is a comprehensive **project and team management tool** built with the **MERN stack**.  
+**TaskPilot** is a comprehensive **project and team management tool** built with the **MERN stack**.  
 It helps organizations streamline projects, assign tasks, track employee attendance, and manage timesheets — all in one integrated platform.
 
 This project demonstrates **end-to-end full-stack development** with clean architecture, RESTful APIs, JWT authentication, and modern UI design using **Material-UI and Bootstrap 5**.
