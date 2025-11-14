@@ -22,6 +22,8 @@ function App() {
           <Route path='/admin/tasks' element={<Tasks />} />
           <Route path='/admin/timesheets' element={<Timesheets />} />
           <Route path='/admin/attendance' element={<Attendance />} />
+  // <Route path='/admin/tasks' element={<Tasks />} />
+  //         <Route path='/admin/timesheets' element={<Timesheets />} />
         </Routes>
       </Router>
     </>
