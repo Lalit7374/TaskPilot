@@ -67,6 +67,7 @@ In the root directory of project, you can run this commands on terminal:
 
 In the root directory of project, you can run this commands on terminal:
 ### `cd /backend`
+### `npm install nodemon`
 ### `node app.js / nodemon app.js`
 
 ## Technologies
